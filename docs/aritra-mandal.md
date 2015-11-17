@@ -4,4 +4,4 @@
      - **Kharagpur
      - **Chicken Curry
      - **Photography
-     - **Red
+     - **favourite colour : Red
